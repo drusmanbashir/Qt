@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>window.qml</file>
+        <file>tnmstaging</file>
+        <file>qml/StageBox.qml</file>
+    </qresource>
+</RCC>
